@@ -1,2 +1,2 @@
 # My-Projects
-This is my excel end to end project
+These are my end to end excel projects, It's a hands-on example of how I can apply data analysis to real-world situations.
